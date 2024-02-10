@@ -41,8 +41,8 @@ Exploratory Data Analysis (EDA) is a great way to analyze and visualize data. Fo
 5. **Continent-wise Analysis:**
    - Explore population statistics for each continent using visualizations like bar plots or pie charts.
 
-6. **Top N Countries:**
-   - Identify and visualize the top N countries based on population using bar charts.
+6. **Top 10 Countries:**
+   - Identify and visualize the top 10 countries based on population using bar charts.
 
 7. **Population Growth Visualization:**
    - Use line plots or bar charts to visualize the population growth over the years for a selected country.
