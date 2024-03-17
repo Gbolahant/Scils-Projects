@@ -10,7 +10,7 @@ The objective of this project is to leverage Excel skills to analyze and visuali
 ### Potential Analysis:
 1. Identify patterns in customer demographics that may influence bike purchases.
 2. Gain insights into regional variations in customer characteristics.
-3. valuate the impact of education and age on bike purchases.
+3. Evaluate the impact of education and age on bike purchases.
 
 ### Conclusion:
 This project provides a practical opportunity for a student to apply Excel skills in a real-world scenario. It covers data cleaning, descriptive statistics, and visualization techniques, offering a holistic understanding of customer data analysis. The insights gained from this analysis can be valuable for businesses in making informed marketing and sales decisions.
@@ -89,3 +89,69 @@ Students are expected to submit:
 
 ### Conclusion:
 This SQL case study offers students an opportunity to apply their SQL querying skills to a real-world dataset. By working through the provided problem statements, students can gain proficiency in querying, analyzing, and interpreting data stored in a relational database, which is essential for various data-related roles in the industry.
+
+
+## Power BI Use Case: Analysis of Paintings and Museums Data
+
+## Objective:
+The objective of this Power BI project is to analyze a dataset containing information about paintings, museums, artists, and related attributes. The project aims to derive insights such as the distribution of paintings across museums, the popularity of artists and painting styles, pricing trends, and more.
+
+## Data Sources:
+The dataset comprises multiple CSV files:
+1. Paintings.csv
+2. Museums.csv
+3. Artists.csv
+4. Product_Size.csv
+5. Subject.csv
+6. Image_Link.csv
+7. Museum_Hours.csv
+
+## Data Loading and Preparation:
+1. Load the dataset CSV files into Power BI Desktop.
+2. Create relationships between the tables based on relevant keys such as Painting ID, Museum ID, and Artist ID.
+3. Perform data cleaning operations to handle missing values, remove duplicates, and format columns as required.
+
+## Analysis and Visualization:
+
+1. **Painting Distribution by Museum:**
+   - Create a bar chart showing the number of paintings displayed in each museum.
+   - Analyze which museums host the most and least number of paintings.
+
+2. **Artist Popularity:**
+   - Build a bar chart or pie chart to visualize the distribution of paintings by each artist.
+   - Identify the most prolific artists with the highest number of paintings in the dataset.
+
+3. **Painting Style Distribution:**
+   - Create a pie chart or bar chart to show the distribution of painting styles (e.g., landscape, portrait, abstract).
+   - Analyze the popularity of different painting styles among museums and collectors.
+
+4. **Price Analysis:**
+   - Compare the asking prices and regular prices of paintings using a scatter plot or line chart.
+   - Calculate the average, median, and range of prices to understand pricing trends in the dataset.
+
+5. **Geographical Analysis:**
+   - Use a map visualization to display the geographical distribution of museums.
+   - Analyze which regions or countries have the highest concentration of museums.
+
+6. **Subject Analysis:**
+   - Create a bar chart or word cloud to visualize the most common painting subjects.
+   - Identify popular themes and motifs depicted in the paintings.
+
+7. **Museum Operating Hours:**
+   - Analyze museum operating hours to identify patterns in opening and closing times.
+   - Determine which museums have the longest and shortest operating hours.
+
+8. **Sales Performance:**
+   - Calculate total sales revenue by multiplying the number of paintings sold by their respective prices.
+   - Compare sales performance across museums, artists, and painting styles.
+
+9. **Canvas Size Analysis:**
+   - Create a bar chart to compare the popularity of different canvas sizes.
+   - Analyze which canvas sizes are preferred by artists and collectors.
+
+10. **Trend Analysis:**
+    - Use line charts to visualize trends in painting prices, sales volume, and museum attendance over time.
+    - Identify any seasonal or long-term trends that may impact the art market.
+
+## Conclusion:
+By analyzing the paintings and museums dataset in Power BI, stakeholders can gain valuable insights into various aspects of the art industry. These insights can inform decision-making processes related to art collection, curation, pricing, and marketing strategies. With interactive visualizations and data-driven analyses, stakeholders can optimize their approaches to enhance the value and appeal of their art collections.
